@@ -2,8 +2,8 @@ ADAPT · Presentación del plan en 3 minutos (3D)
 1) Abre Adapt_Plan_3D_3min.html con Chrome (doble clic). No necesita internet. Mejor en pantalla completa (F).
 2) Teclas: → un paso (y luego la siguiente diapositiva) · ↓ siguiente diapositiva · ← atrás · S iniciar cronómetro · T mostrar/ocultar cronómetro · N guion en pantalla · F pantalla completa.
 3) Guion: Adapt_Guion_Plan_3min.pdf (cada diapositiva, qué cubre de tu lista, lo que dices y la tabla de cobertura).
-Duración del guion: ~2:53 (418 palabras). El cronómetro marca 3:00.
-Estructura (barra de arriba): 1 Plan de negocios (6) · 2 Plan (4 diapositivas que cubren 6 puntos) · 3 Sahlman (4 preguntas).
+Duración del guion: ~2:41 (387 palabras). El cronómetro marca 3:00.
+Estructura (barra de arriba): 1 Plan de negocios (5: problema y solución van juntos y remiten al Lean Canvas) · 2 Plan (4 diapositivas que cubren 6 puntos) · 3 Sahlman (4 preguntas).
 No repite el pitch anterior: sin gancho del 57 % de bots, sin «candado SSL», sin diagnóstico gratis de 15 minutos ni costos < US$ 500.
 Datos con fuente: McKinsey (escenario), eMarketer. Supuestos del equipo (se dicen como supuestos): precios, clientes 7/27/64, ingresos y costos, ronda de ≈ US$ 10,000, embudo 100→15→5→2.
 Cultura: no se escribe, por eso no tiene diapositiva. Sahlman: el paper es de pago; se usaron resúmenes de HBS.
