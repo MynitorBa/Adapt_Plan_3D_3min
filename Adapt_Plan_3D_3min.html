@@ -7407,7 +7407,7 @@ function stageFunnel(){
 /* ---- 1' · resumen ejecutivo: cuatro fuentes de ingreso ---- */
 function stageSummary(){
   const g=new THREE.Group();g.position.set(3.7,.35,0);
-  const defs=[{x:-2.55,y:-.45,col:0x39d9ff,txt:'Implementación'},{x:-.85,y:0,col:0xff7ac6,txt:'Mantenimiento'},{x:.85,y:.45,col:0xffb627,txt:'Sello anual',badge:1},{x:2.55,y:.9,col:0xb18cff,txt:'Comisión 1 %'}];
+  const defs=[{x:-2.55,y:-.45,col:0x39d9ff,txt:'Implementación'},{x:-.85,y:0,col:0xff7ac6,txt:'Mantenimiento'},{x:.85,y:.45,col:0xffb627,txt:'Sello anual',badge:1},{x:2.55,y:.9,col:0xb18cff,txt:'Comisión'}];
   const items=defs.map(d=>{
     const grp=new THREE.Group();grp.position.set(d.x,FLOOR+1.25+d.y,0);
     let m;
